@@ -1,4 +1,4 @@
-# Reinforcement-learining
+# Reinforcement-learning
 CS:5001 - DL course project | Fall 2017
 
 Programming language used - JAVA
